@@ -15,6 +15,6 @@
         }
     },
     "require": {
-        "luizschmitt/php-http":"dev-master"
+        "luizschmitt/php-http":"^1.0"
     }
 }
