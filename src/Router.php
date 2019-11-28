@@ -2,9 +2,6 @@
 
 namespace Lz\PHP;
 
-require_once __DIR__ . '/../../php-http/src/Request.php';
-require_once __DIR__ . '/../../php-http/src/Response.php';
-
 use \Lz\PHP\Request;
 use \Lz\PHP\Response;
 

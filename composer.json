@@ -14,5 +14,7 @@
             "Lz\\PHP\\":"src"
         }
     },
-    "require": {}
+    "require": {
+        "luizschmitt/php-http":"dev-master"
+    }
 }
